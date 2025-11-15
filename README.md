@@ -1,3 +1,7 @@
+# LifePulse AI
+**Adaptive AI for Real-World Decision Making**
+
+LifePulse AI is a hybrid-intelligence system designed to enhance human clarity, wellbeing, and performance through adaptive reasoning, contextual understanding, and stable interaction patterns.
 ## Table of Contents
 - [Documentation Structure](#-documentation-structure)
 - [Privacy & Safety](#-privacy--safety)
