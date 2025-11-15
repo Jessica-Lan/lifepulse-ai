@@ -1,66 +1,78 @@
 # LifePulse AI
 **Adaptive AI for Real-World Decision Making**
 
+> **Status:** Documentation-Only | **Version:** Pre-MVP | **Focus:** Hybrid Intelligence System  
+
+██████╗ ██╗     ██╗███████╗██████╗ ██╗   ██╗██╗     ███████╗  
+██╔══██╗██║     ██║██╔════╝██╔══██╗██║   ██║██║     ██╔════╝  
+██████╔╝██║     ██║█████╗  ██████╔╝██║   ██║██║     ███████╗  
+██╔══██╗██║     ██║██╔══╝  ██╔══██╗██║   ██║██║     ╚════██║  
+██████╔╝███████╗██║███████╗██║  ██║╚██████╔╝███████╗███████║  
+╚═════╝ ╚══════╝╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝  
+
 LifePulse AI is a hybrid-intelligence system designed to enhance human clarity, wellbeing, and performance through adaptive reasoning, contextual understanding, and stable interaction patterns.
-## Table of Contents
-- [Documentation Structure](#-documentation-structure)
-- [Privacy & Safety](#-privacy--safety)
-- [Purpose](#-purpose-of-this-repository)
-- [Future Additions](#-future-additions-planned)# LifePulse AI
-
-LifePulse AI is a hybrid-intelligence system designed to enhance human decision-making, wellbeing, and performance.  
-The project integrates behavioral insights, adaptive interaction logic, and system-level reasoning to support clarity, resilience, and long-term personal growth.
-
-This repository provides high-level technical documentation, conceptual architecture, and development planning.  
-All sensitive algorithms, proprietary logic, and personal data remain undisclosed.
 
 ---
 
-## 📘 Documentation Structure
+## Table of Contents
+- [Overview](#overview)
+- [Documentation Structure](#documentation-structure)
+- [Privacy & Safety](#privacy--safety)
+- [Purpose](#purpose)
+- [Future Additions](#future-additions)
+
+---
+
+## Overview
+LifePulse AI integrates human cognitive context with adaptive AI reasoning to support better decisions in daily life, work, wellbeing and long-term planning.
+
+---
+
+## Documentation Structure
+
+- **System Overview**  
+  → `/docs/system-overview.md`
 
 - **System Architecture**  
-  High-level overview of core layers and workflow  
   → `/docs/architecture.md`
 
 - **Persona Interaction Engine**  
-  Conceptual design of real-time adaptive interaction  
   → `/docs/persona-engine.md`
 
 - **Roadmap**  
-  Development phases and milestone planning  
   → `/docs/roadmap.md`
 
----
-
-## 🔒 Privacy & Safety
-
-LifePulse AI is designed with:
-- Local-first data principles  
-- No raw personal data storage  
-- Clear separation between conceptual documentation and proprietary code  
-- A secure hybrid-intelligence design philosophy
-
-This repository serves as documentation only.  
-No production code or sensitive implementation details are included.
+- **Images / Assets**  
+  → `/docs/images/`
 
 ---
 
-## 📍 Purpose of This Repository
+## Privacy & Safety
 
-- Support project evaluation  
-- Provide documentation for collaborators and advisors  
-- Demonstrate system-level planning and architectural clarity  
-- Establish transparent, modular technical foundations
-
----
-
-## 🧩 Future Additions (Planned)
-
-- System overview diagram  
-- Whitepaper v1.0 outline  
-- High-level API contract (non-sensitive)  
-- Prototype interface specification
+- Local-first data design  
+- No raw user data stored  
+- No proprietary algorithms included  
+- Documentation-only repository  
+- Conceptual, safe, non-sensitive content
 
 ---
 
-For collaboration inquiries, please contact the project owner.
+## Purpose
+
+This repository exists to support:
+- Project evaluation  
+- Academic review (e.g., UCL MPhil/PhD)  
+- Collaboration with advisors & technical partners  
+- High-level architectural transparency  
+- Non-sensitive technical documentation
+
+---
+
+## Future Additions
+
+- Whitepaper v1.0  
+- API interaction contract (non-sensitive)  
+- Additional diagrams & system specifications  
+- Prototype UI flows  
+
+---
