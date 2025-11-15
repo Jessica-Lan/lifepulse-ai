@@ -1,4 +1,8 @@
-# LifePulse AI
+## Table of Contents
+- [Documentation Structure](#-documentation-structure)
+- [Privacy & Safety](#-privacy--safety)
+- [Purpose](#-purpose-of-this-repository)
+- [Future Additions](#-future-additions-planned)# LifePulse AI
 
 LifePulse AI is a hybrid-intelligence system designed to enhance human decision-making, wellbeing, and performance.  
 The project integrates behavioral insights, adaptive interaction logic, and system-level reasoning to support clarity, resilience, and long-term personal growth.
