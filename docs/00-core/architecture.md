@@ -1,3 +1,21 @@
+```mermaid
+flowchart LR
+    subgraph Micro[Personal Layer\n(Individual & On-device)]
+        U[User\n(thoughts, context, signals)]
+        Agent[LifePulse Adaptive Agent\n(state + archetype + pacing)]
+        U -->|local interaction| Agent
+    end
+
+    subgraph Meso[Organization Layer\n(Aggregated Only, Opt-in)]
+        OrgTrends[Team / Org Wellbeing Trends\n(no individual data)]
+    end
+
+    subgraph Macro[Public Sector Layer\n(Population Indicators)]
+        GovTrends[Population-level Wellbeing Indexes\n(fully de-identified)]
+    end
+
+    Agent -->|local stats\n+ explicit consent| OrgTrends
+    OrgTrends -->|further aggregation| GovTrends
 # LifePulse AI – System Architecture
 
 LifePulse AI is designed as a hybrid-intelligence system that integrates human context, behavioral insights and adaptive AI interaction. The architecture ensures modularity, data protection and clear functional separation.
