@@ -170,3 +170,9 @@ See `/docs/05-research/oii-research-track.md` for full academic positioning.
 
 Documentation maintained by **Jessica Elise Lana**  
 Oxford, UK  
+## Running the demo (skeleton)
+
+```bash
+git clone https://github.com/Jessica-Lan/lifepulse-ai.git
+cd lifepulse-ai
+python main.py
