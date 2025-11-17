@@ -1,0 +1,2 @@
+# LifePulse AI skeleton uses only the Python standard library.
+# No external dependencies required.
